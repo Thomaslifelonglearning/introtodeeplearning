@@ -6,6 +6,8 @@
 *.h5
 lab2/logs/*
 
+# conda env
+.conda
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
